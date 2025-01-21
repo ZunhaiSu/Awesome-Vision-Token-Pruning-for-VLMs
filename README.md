@@ -18,6 +18,7 @@
 |NeurIPS2024 accepted|[Accelerating Transformers with Spectrum-Preserving Token Merging](https://arxiv.org/abs/2405.16148)|German Research Center for Artificial Intelligence|NeurIPS2024 accepted|
 |ICML2024 accepted|[OSSCAR: One-Shot Structured Pruning in Vision and Language Models with Combinatorial Optimization](https://arxiv.org/abs/2403.12983)|MIT|ICML2024 accepted|
 |ACL2023 accepted|[PuMer: Pruning and Merging Tokens for Efficient Vision Language Models](https://arxiv.org/abs/2305.17530)|University of Washington||
+|EMNLP2024 accepted|[LOOK-M: Look-Once Optimization in KV Cache for Efficient Multimodal Long-Context Inference](https://arxiv.org/abs/2406.18139)|The Ohio State University|EMNLP2024 accepted|
 
 
 # 2025.1
@@ -44,6 +45,7 @@
 |2024.12|[PruneVid: Visual Token Pruning for Efficient Video Large Language Models](https://arxiv.org/abs/2412.16117)|The University of Hong Kong||
 |2024.12|[MBQ: Modality-Balanced Quantization for Large Vision-Language Models](https://arxiv.org/abs/2412.19509)|Tsinghua University||
 |2024.12|[OmniVLM: A Token-Compressed, Sub-Billion-Parameter Vision-Language Model for Efficient On-Device Inference](https://arxiv.org/abs/2412.11475)|Nexa AI||
+|2024.12|[Cross-Self KV Cache Pruning for Efficient Vision-Language Inference](https://arxiv.org/abs/2412.04652)|The University of Sydney||
 
 
 # 2024.11
@@ -53,6 +55,7 @@
 |2024.11|[Inference Optimal VLMs Need Only One Visual Token but Larger Models](https://arxiv.org/abs/2411.03312)|Carnegie Mellon University|ICLR2025 Submission|
 |2024.11|[FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression](https://arxiv.org/abs/2411.14228)|Ant Group||
 |2024.11|[freePruner: A Training-free Approach for Large Multimodal Model Acceleration](https://arxiv.org/abs/2411.15446)|Illinois Institute of Technology||
+|2024.11|[DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models](https://arxiv.org/abs/2411.15024)|Westlake University||
 
 
 # 2024.10
@@ -65,6 +68,7 @@
 |2024.10|[Efficient Vision-Language Models by Summarizing Visual Tokens into Compact Registers](https://arxiv.org/abs/2410.14072)|University of Maryland||
 |2024.10|[PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction](https://arxiv.org/abs/2410.17247)|USTC|ICLR2025 Submission|
 |2024.10|[VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration](https://arxiv.org/abs/2410.23317)|University of California|ICLR2025 Submission|
+|2024.10|[xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs](https://arxiv.org/abs/2410.16267)|Salesforce AI Research|ICLR2025 Submission|
 
 
 # 2024.9
@@ -74,12 +78,14 @@
 |2024.9|[Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information](https://arxiv.org/abs/2409.01179)|University of Chinese Academy of Sciences||
 |2024.9|[Balancing Performance and Efficiency: A Multimodal Large Language Model Pruning Method based Image Text Interaction](https://arxiv.org/abs/2409.01162)|University of Chinese Academy of Sciences||
 |2024.9|[Interpolating Video-LLMs: Toward Longer-sequence LMMs in a Training-free Manner](https://arxiv.org/abs/2409.12963)|Illinois Institute of Technology|ICLR2025 Submission|
+|2024.9|[Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU](https://arxiv.org/abs/2409.09086)|Shanghai Jiao Tong University||
 
 
 # 2024.6
 |Date|Paper|Author|Conference|
 |:---:|:---:|:---:|:---:| 
 |2024.5|[VoCo-LLaMA: Towards Vision Compression with Large Language Models](https://arxiv.org/abs/2406.12275)|Tsinghua University||
+
 
 # 2024.5
 |Date|Paper|Author|Conference|
