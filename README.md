@@ -19,8 +19,8 @@
 |ICML2024 accepted|[OSSCAR: One-Shot Structured Pruning in Vision and Language Models with Combinatorial Optimization](https://arxiv.org/abs/2403.12983)|MIT|ICML2024 accepted|
 |ACL2023 accepted|[PuMer: Pruning and Merging Tokens for Efficient Vision Language Models](https://arxiv.org/abs/2305.17530)|University of Washington||
 |EMNLP2024 accepted|[LOOK-M: Look-Once Optimization in KV Cache for Efficient Multimodal Long-Context Inference](https://arxiv.org/abs/2406.18139)|The Ohio State University|EMNLP2024 accepted|
-
-
+|WACV2024 accepted|[Revisiting Token Pruning for Object Detection and Instance Segmentation](https://openaccess.thecvf.com/content/WACV2024/html/Liu_Revisiting_Token_Pruning_for_Object_Detection_and_Instance_Segmentation_WACV_2024_paper.html)|University of Zurich|WACV2024 accepted|
+|EMNLP2023 accepted|[Focus on the Core: Efficient Attention via Pruned Token Compression for Document Classification](https://arxiv.org/abs/2406.01283)|Chung-Ang University|EMNLP2023 accepted|
 # 2025.1
 |Date|Paper|Author|Conference|
 |:---:|:---:|:---:|:---:| 
@@ -46,6 +46,7 @@
 |2024.12|[MBQ: Modality-Balanced Quantization for Large Vision-Language Models](https://arxiv.org/abs/2412.19509)|Tsinghua University||
 |2024.12|[OmniVLM: A Token-Compressed, Sub-Billion-Parameter Vision-Language Model for Efficient On-Device Inference](https://arxiv.org/abs/2412.11475)|Nexa AI||
 |2024.12|[Cross-Self KV Cache Pruning for Efficient Vision-Language Inference](https://arxiv.org/abs/2412.04652)|The University of Sydney||
+|2024.12|[Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models](https://arxiv.org/abs/2410.19732)|University of Macau||
 
 
 # 2024.11
@@ -56,6 +57,7 @@
 |2024.11|[FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression](https://arxiv.org/abs/2411.14228)|Ant Group||
 |2024.11|[freePruner: A Training-free Approach for Large Multimodal Model Acceleration](https://arxiv.org/abs/2411.15446)|Illinois Institute of Technology||
 |2024.11|[DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models](https://arxiv.org/abs/2411.15024)|Westlake University||
+|2024.11|[Pruning One More Token is Enough: Leveraging Latency-Workload Non-Linearities for Vision Transformers on the Edge](https://arxiv.org/abs/2407.05941)| Nick John Eliopoulos||
 
 
 # 2024.10
@@ -81,11 +83,16 @@
 |2024.9|[Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU](https://arxiv.org/abs/2409.09086)|Shanghai Jiao Tong University||
 
 
+# 2024.10
+|Date|Paper|Author|Conference|
+|:---:|:---:|:---:|:---:| 
+|2024.10|LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference|Apple|ICLR2025 Submission|
+
 # 2024.6
 |Date|Paper|Author|Conference|
 |:---:|:---:|:---:|:---:| 
-|2024.5|[VoCo-LLaMA: Towards Vision Compression with Large Language Models](https://arxiv.org/abs/2406.12275)|Tsinghua University||
-
+|2024.6|[VoCo-LLaMA: Towards Vision Compression with Large Language Models](https://arxiv.org/abs/2406.12275)|Tsinghua University||
+|2024.6|[Adaptive Visual Abstraction via Object Token Merging and Pruning for Efficient Robot Manipulation](https://openreview.net/forum?id=s4A6cJG3Dn)|KAIST|CVPR 2024 Workshop|
 
 # 2024.5
 |Date|Paper|Author|Conference|
